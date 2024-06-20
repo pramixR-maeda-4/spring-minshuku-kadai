@@ -1,0 +1,9 @@
+Heroku : アプリ実行のための環境
+Paas : Platform as a Service の略。サービス環境を提供するシステム
+herokuのメリット
+|-拡張機能の豊富さ
+|-システムの環境増強が簡易的
+|-ログやパフォーマンスモニター、バックアップ機能の利用
+
+verify.salesforce.com
+PmxR@04_rm
